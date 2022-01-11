@@ -1,4 +1,4 @@
-# Desafio Técnico Ebytr
+# My Schedule
 <div>
   <p>Para esse projeto foram criados dois repositórios, um para o Front-end e outro para o Back-end. Segue abaixo o link dos respectivos repositórios:</p>
 </div>
